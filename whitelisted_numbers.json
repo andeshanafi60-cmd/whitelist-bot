@@ -2,8 +2,16 @@
   "users": [
     {
       "nomor_user": "6282376688053",
-      "nomor_bots": ["6282376688053", "601136323915"],
+      "nomor_bots": [
+        "6282376688053",
+        "601136323915"
+      ],
       "password": "NDES123"
+    },
+    {
+      "nomor_user": "6287782791027",
+      "password": "andes",
+      "nomor_bots": []
     }
   ]
 }
