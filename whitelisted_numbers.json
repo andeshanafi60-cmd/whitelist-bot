@@ -12,7 +12,9 @@
         {
             "nomor_user": "6287782791027",
             "password": "NDES123",
-            "nomor_bots": []
+            "nomor_bots": [
+                "6287782791027"
+            ]
         }
     ]
 }
