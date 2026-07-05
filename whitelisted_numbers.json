@@ -19,7 +19,9 @@
         {
             "nomor_user": "60102426394",
             "password": "NDES123",
-            "nomor_bots": []
+            "nomor_bots": [
+                "584162031739"
+            ]
         }
     ]
 }
