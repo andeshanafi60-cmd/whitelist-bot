@@ -23,6 +23,11 @@
             "nomor_bots": [
                 "584162031739"
             ]
+        },
+        {
+            "nomor_user": "6282295672127",
+            "password": "NDES123",
+            "nomor_bots": []
         }
     ]
 }
